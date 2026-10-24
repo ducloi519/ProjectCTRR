@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Hệ Thống Gợi Ý Phím
 
 Đồ án cuối kì môn Cấu trúc rời rạc: hệ thống gợi ý phim sử dụng tập hợp
 và hệ số Jaccard, viết bằng Python với giao diện Streamlit tiếng Việt.
