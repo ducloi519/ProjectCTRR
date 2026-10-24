@@ -140,17 +140,6 @@ Python 3.12 không có tại đường dẫn đã cấu hình. Vì vậy chưa x
 cú pháp, chạy lại unittest hoặc chạy ứng dụng Streamlit thành công tại đây.
 Không coi việc tạo xong mã là bằng chứng giao diện đã chạy được.
 
-## 7. Gợi ý trình bày khi bảo vệ
-
-1. Nêu bài toán và dữ liệu: 25 người hư cấu, 20 tên phim thật; sở thích giả lập.
-2. Chọn U01 và giải thích vì sao dùng set thay cho danh sách khi tính toán.
-3. Mở ví dụ U01–U05: chỉ ra 3 phần tử giao, 7 phần tử hợp và kết quả 3/7.
-4. Bấm gợi ý, giải thích Top 3, điều kiện điểm dương và quy tắc hòa điểm.
-5. Chỉ ra phim mới xuất hiện từ hợp sở thích hàng xóm sau khi trừ tập U01.
-6. Chuyển sang U05 hoặc U10 để minh họa kết quả phụ thuộc hồ sơ mục tiêu.
-7. Nêu kết quả unittest và phân biệt hai khái niệm: kiểm thử xác nhận các
-   quy tắc trong trường hợp đã thử; chưa chứng minh người thật thích gợi ý.
-
 Hạn chế: chưa có lịch sử xem đầy đủ, nên chỉ loại phim đã thích; người chưa
 có sở thích không có hàng xóm điểm dương; k = 3 chưa được tối ưu thực nghiệm;
 chưa có đánh giá chất lượng bằng phản hồi người dùng thật.
