@@ -1,0 +1,156 @@
+{
+  "synthetic": true,
+  "description": "25 người dùng hư cấu; sở thích được tạo thủ công để minh họa, không thu thập từ người thật. Nhóm chỉ mô tả xu hướng sở thích, không dùng để tính độ tương đồng.",
+  "users": [
+    {
+      "id": "U01",
+      "name": "An",
+      "preference_group": "Khoa học viễn tưởng",
+      "favorite_movie_ids": ["M01", "M02", "M03", "M07", "M18"]
+    },
+    {
+      "id": "U02",
+      "name": "Bình",
+      "preference_group": "Khoa học viễn tưởng",
+      "favorite_movie_ids": ["M01", "M02", "M04", "M17", "M18", "M19"]
+    },
+    {
+      "id": "U03",
+      "name": "Chi",
+      "preference_group": "Khoa học viễn tưởng",
+      "favorite_movie_ids": ["M02", "M03", "M04", "M16"]
+    },
+    {
+      "id": "U04",
+      "name": "Dũng",
+      "preference_group": "Khoa học viễn tưởng",
+      "favorite_movie_ids": ["M01", "M03", "M04", "M06", "M07", "M17", "M20"]
+    },
+    {
+      "id": "U05",
+      "name": "Hà",
+      "preference_group": "Khoa học viễn tưởng",
+      "favorite_movie_ids": ["M01", "M02", "M09", "M18", "M19"]
+    },
+    {
+      "id": "U06",
+      "name": "Hải",
+      "preference_group": "Hành động",
+      "favorite_movie_ids": ["M03", "M05", "M06", "M07", "M08", "M17"]
+    },
+    {
+      "id": "U07",
+      "name": "Hân",
+      "preference_group": "Hành động",
+      "favorite_movie_ids": ["M01", "M05", "M07", "M08", "M20"]
+    },
+    {
+      "id": "U08",
+      "name": "Huy",
+      "preference_group": "Hành động",
+      "favorite_movie_ids": ["M04", "M06", "M08", "M17"]
+    },
+    {
+      "id": "U09",
+      "name": "Khánh",
+      "preference_group": "Hành động",
+      "favorite_movie_ids": ["M03", "M05", "M06", "M07", "M15", "M17", "M20"]
+    },
+    {
+      "id": "U10",
+      "name": "Lan",
+      "preference_group": "Hành động",
+      "favorite_movie_ids": ["M05", "M07", "M08", "M09", "M11"]
+    },
+    {
+      "id": "U11",
+      "name": "Linh",
+      "preference_group": "Tình cảm",
+      "favorite_movie_ids": ["M09", "M10", "M11", "M12", "M19"]
+    },
+    {
+      "id": "U12",
+      "name": "Mai",
+      "preference_group": "Tình cảm",
+      "favorite_movie_ids": ["M02", "M09", "M10", "M11", "M18", "M19"]
+    },
+    {
+      "id": "U13",
+      "name": "Minh",
+      "preference_group": "Tình cảm",
+      "favorite_movie_ids": ["M09", "M11", "M12", "M18"]
+    },
+    {
+      "id": "U14",
+      "name": "Nam",
+      "preference_group": "Tình cảm",
+      "favorite_movie_ids": ["M04", "M09", "M10", "M11", "M12", "M19", "M20"]
+    },
+    {
+      "id": "U15",
+      "name": "Ngọc",
+      "preference_group": "Tình cảm",
+      "favorite_movie_ids": ["M10", "M12", "M16", "M18", "M19"]
+    },
+    {
+      "id": "U16",
+      "name": "Phúc",
+      "preference_group": "Kinh dị",
+      "favorite_movie_ids": ["M13", "M14", "M15", "M16", "M20"]
+    },
+    {
+      "id": "U17",
+      "name": "Phương",
+      "preference_group": "Kinh dị",
+      "favorite_movie_ids": ["M03", "M13", "M15", "M16", "M20"]
+    },
+    {
+      "id": "U18",
+      "name": "Quân",
+      "preference_group": "Kinh dị",
+      "favorite_movie_ids": ["M05", "M13", "M14", "M20"]
+    },
+    {
+      "id": "U19",
+      "name": "Quỳnh",
+      "preference_group": "Kinh dị",
+      "favorite_movie_ids": ["M01", "M06", "M13", "M14", "M15", "M16", "M20"]
+    },
+    {
+      "id": "U20",
+      "name": "Sơn",
+      "preference_group": "Kinh dị",
+      "favorite_movie_ids": ["M11", "M14", "M15", "M16", "M19", "M20"]
+    },
+    {
+      "id": "U21",
+      "name": "Thảo",
+      "preference_group": "Hỗn hợp",
+      "favorite_movie_ids": ["M01", "M07", "M11", "M15", "M18"]
+    },
+    {
+      "id": "U22",
+      "name": "Trang",
+      "preference_group": "Hỗn hợp",
+      "favorite_movie_ids": ["M02", "M05", "M09", "M13", "M17", "M19"]
+    },
+    {
+      "id": "U23",
+      "name": "Trí",
+      "preference_group": "Hỗn hợp",
+      "favorite_movie_ids": ["M03", "M08", "M12", "M16"]
+    },
+    {
+      "id": "U24",
+      "name": "Tú",
+      "preference_group": "Hỗn hợp",
+      "favorite_movie_ids": ["M04", "M06", "M10", "M14", "M17", "M18", "M20"]
+    },
+    {
+      "id": "U25",
+      "name": "Vy",
+      "preference_group": "Hỗn hợp",
+      "favorite_movie_ids": ["M01", "M08", "M11", "M15", "M19"]
+    }
+  ]
+}
